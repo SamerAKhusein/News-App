@@ -30,6 +30,10 @@ We welcome contributions to News App! If you would like to contribute, please fo
 - Create a new Pull Request
 
 
+### License
+
+News App is open source software licensed under the MIT license. See the [LICENSE](https://opensource.org/license/mit/) file for more information.
+
 ### Contact
 
 If you have any questions or feedback about News App, please contact us at samerakhusein@gmail.com .
